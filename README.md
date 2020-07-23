@@ -9,3 +9,11 @@ An attempt to create an opensource wifi solution for controlling and monitoring 
 - [ ] Finish sniffing commands
 - [ ] Build protocol
 - [ ] Implement on ESP8266 style solution
+
+### Testing
+Will be tested on the following Panasonic models:
+- CU-Z25TKR [not yet tested]
+- CS-E24LKR [not yet tested]
+- CS-E12JKR [not yet tested]
+
+
